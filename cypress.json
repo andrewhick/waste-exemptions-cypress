@@ -1,0 +1,4 @@
+{
+  "baseUrl" : "https://admin-wex-tst.aws.defra.cloud/",
+  "defaultCommandTimeout" : 5000
+}
